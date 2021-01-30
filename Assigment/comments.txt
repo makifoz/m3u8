@@ -1,0 +1,11 @@
+======================
+Hi,
+
+I had a hard time processing an external library (libcurl) makefile, or rather I could not.
+Compiled program from the terminal in my own environment. gcc Assigment.c -lcurl -o ass.
+
+
+
+
+
+
